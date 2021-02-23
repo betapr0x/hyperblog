@@ -2,4 +2,6 @@ ejemplo para el curso de git
 
 aunque el perro no le dio secuencia a su video, tache!
 
-hoy veremos esa historia
+hoy veremos esa historia y 
+
+aumentamos su vida para ver los cambios 
