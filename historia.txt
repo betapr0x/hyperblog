@@ -5,3 +5,5 @@ aunque el perro no le dio secuencia a su video, tache!
 hoy veremos esa historia y 
 
 aumentamos su vida para ver los cambios 
+
+aumentamos una segunda linea y vemos el log y estatus
