@@ -2,4 +2,5 @@ Este es el primer documento que se hara
 
 para el curso de git y GitHub
 
-y se toaran otros cursos en el 2021
+y se tomaran otros cursos a lo largo del 2022
+
