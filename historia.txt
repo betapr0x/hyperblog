@@ -2,10 +2,4 @@ Este es el primer documento que se hara
 
 para el curso de git y GitHub
 
-y se tomaran otros cursos a lo largo del 2022.
-
-Tambien se van a aprender nuevos lenguajes de programacion y paradigmas.
-
-
-
-
+Vamos a tomar varios cursos interesantes 
